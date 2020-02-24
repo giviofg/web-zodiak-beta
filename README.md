@@ -1,2 +1,3 @@
 # web-zodiak-beta
-Web Zodiak (Beta 0.1.1)
+Web Zodiak PBW
+html + php
